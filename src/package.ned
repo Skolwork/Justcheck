@@ -1,0 +1,3 @@
+package justcheck;
+
+@license(LGPL);
